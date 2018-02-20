@@ -12,11 +12,11 @@ public class RobotColorChooser {
 		
 		//3. Ask the user what color they would like the robot to draw
 		
-		//4. Use an if/else statement to set the pen color that the user requested
+		//5. Use an if/else statement to set the pen color that the user requested
 
-        //5. If the user doesn’t enter anything, choose a random color
+        //6. If the user doesn’t enter anything, choose a random color
 
-        //6. Put a loop around your code so that you keep asking the user for more colors & drawing them
+        //7. Put a loop around your code so that you keep asking the user for more colors & drawing them
 		
 		//4. Set the pen width to 10
 		
